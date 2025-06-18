@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Deepwoken Game',
+    'O que é Wipe ?',
+    'É uma forma de morte permanente'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Deepwoken Depths',
+    'Qual a capital das Depths ?',
+    'A capital das Depths é Castle Light'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Segundo Mar Deepwoken',
+    'Onde fica o boss Ferry Man ?',
+    'Na ilha Boatman's Watch'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Deepwoken Freshies',
+    'Oque um freshie normalmente faz no inicio ? ',
+    'Morrer para Sharko'
 )
