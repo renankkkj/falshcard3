@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'Segundo Mar Deepwoken',
     'Onde fica o boss Ferry Man ?',
-    'Na ilha Boatman's Watch'
+    'Na ilha Boatmans Watch'
 )
 
 criaCartao(
